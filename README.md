@@ -39,6 +39,15 @@ React-based weather application with real-time API integration and async data ha
 
 
 ---
+## 📈 Achievements
+
+- 🏆 Ranked in **Top 2% on Coding Ninjas (2023 Recap)**  
+  🔗 https://www.naukri.com/code360/profile/YOUR_PROFILE_LINK
+
+- 💡 Solved **350+ Data Structures & Algorithms problems** across Coding Ninjas and LeetCode  
+  🔗 https://www.naukri.com/code360/profile/ece1c3b2-4bce-4029-85bf-ed221eb43601 || https://leetcode.com/u/ketanbhange/
+
+- ☁️ AWS Certified – Cloud fundamentals and deployment understanding
 
 ## Connect
 

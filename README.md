@@ -32,10 +32,12 @@ Full-stack travel listing platform with authentication, RBAC, MongoDB indexing, 
 
 ### ResumeForge
 AI-powered resume builder using React, Strapi, Clerk, and Gemini API.  
+LIVE LINK - https://ai-resume-builder-frontend-eight.vercel.app/
 
 
 ### SkyCast
 React-based weather application with real-time API integration and async data handling.  
+
 
 
 ---
